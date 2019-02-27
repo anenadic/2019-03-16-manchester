@@ -243,6 +243,14 @@ e.g., '2015-06-10-esu'.
 
 <hr/>
 
+<h2 id="syllabus">Syllabus</h2>
+<p>We will be working with the followind datasets:</p>
+  <div>
+    <ul class="nav nav-tabs nav-justified" role="tablist">
+      <li><a href="">Antibiotic prescribing data for the UK in November 2018</a></li>
+    </ul>
+  </div>
+
 {% comment %}
 SYLLABUS
 
