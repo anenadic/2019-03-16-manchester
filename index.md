@@ -247,7 +247,7 @@ e.g., '2015-06-10-esu'.
 <p>We will be working with the followind datasets:</p>
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
-      <li><a href="">Antibiotic prescribing data for the UK in November 2018</a></li>
+      <li><a href="https://www.dropbox.com/sh/g31k0vb8sz24hcf/AADwfVWArO1-XRQ4uzjGiRFUa?dl=0">Antibiotic prescribing data for the UK in November 2018</a></li>
     </ul>
   </div>
 
