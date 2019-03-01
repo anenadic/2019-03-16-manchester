@@ -1,5 +1,7 @@
 # workshop-template
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anenadic/2019-03-16-manchester/gh-pages)
+
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
 
