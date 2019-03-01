@@ -1,1 +1,1 @@
-curl -L "http://www.dropbox.com/sh/g31k0vb8sz24hcf/AADwfVWArO1-XRQ4uzjGiRFUa?dl=1" -o data.zip && unzip data.zip antibiotic.csv && mv antibiotic.csv data
+curl -L "http://www.dropbox.com/sh/g31k0vb8sz24hcf/AADwfVWArO1-XRQ4uzjGiRFUa?dl=1" -o data.zip && unzip data.zip antibiotics.csv && mv antibiotics.csv data
