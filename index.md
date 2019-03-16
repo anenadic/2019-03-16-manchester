@@ -252,7 +252,7 @@ e.g., '2015-06-10-esu'.
   <p>Code similar to the one used in the workshop can be found at:</p>
   <div>
     <ul>
-      <li><a href="https://github.com/anenadic/2019-03-16-manchester/blob/gh-pages/prescribing_exercises.ipynb">notebook</a></li>
+      <li><a href="https://github.com/anenadic/2019-03-16-manchester/blob/gh-pages/prescribing_exercises.ipynb">Jupyter notebook</a></li>
     </ul>
   </div>
 
