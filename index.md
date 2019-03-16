@@ -243,10 +243,10 @@ e.g., '2015-06-10-esu'.
 <hr/>
 
 <h2 id="datasets">Datasets</h2>
-<p>We will be working with the followind datasets:</p>
+<p>We will be working with the following dataset:</p>
   <div>
     <ul>
-      <li><a href="https://www.dropbox.com/sh/g31k0vb8sz24hcf/AADwfVWArO1-XRQ4uzjGiRFUa?dl=0">Antibiotic prescribing data for the UK in November 2018</a></li>
+      <li><a href="https://www.dropbox.com/s/5n9hr5r4hhaas46/data-carpentry-medicie-undergrad.zip?dl=0">Antibiotic prescribing data for the UK in August and November 2018</a></li>
     </ul>
   </div>
 
