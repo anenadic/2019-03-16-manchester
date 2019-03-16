@@ -242,11 +242,17 @@ e.g., '2015-06-10-esu'.
 
 <hr/>
 
-<h2 id="datasets">Datasets</h2>
+<h2 id="datasets">Dataset and Code</h2>
 <p>We will be working with the following dataset:</p>
   <div>
     <ul>
       <li><a href="https://www.dropbox.com/s/5n9hr5r4hhaas46/data-carpentry-medicie-undergrad.zip?dl=0">Antibiotic prescribing data for the UK in August and November 2018</a></li>
+    </ul>
+  </div>
+  <p>Code similar to the one used in the workshop can be found at:</p>
+  <div>
+    <ul>
+      <li><a href="https://github.com/anenadic/2019-03-16-manchester/blob/gh-pages/prescribing_exercises.ipynb">notebook</a></li>
     </ul>
   </div>
 
